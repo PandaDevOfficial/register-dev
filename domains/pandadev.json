@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "PandaDev0001",
+    "email": "pandadeveloper772@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pandadev",
+      "value": "panda-dev.pages.dev"
+    }
+  },
+  "proxied": false
+}
